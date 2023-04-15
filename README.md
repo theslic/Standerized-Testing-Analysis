@@ -1,6 +1,6 @@
 # Standerized Testing Analysis
 ## Description
-In this project we will look into standerized testing's relationships with factors such as family, career and education etc.
+In this project we will look into standerized testing's relationships with factors such as salary, education, etc.
 
 ## Data
 The data sets we will be using are:  
