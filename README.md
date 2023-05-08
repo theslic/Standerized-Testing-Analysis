@@ -1,7 +1,7 @@
 # Standerized Testing Analysis
 ## Description
-In this project we will look into standerized testing's relationships with factors such as salary, education, etc.
-
+In this project we will look into standerized testing's relationships with factors such as salary, education, etc. We will compare different variables through plots and other tools. Then we will find the ones that are best for predicting ACT scores based on socioeconomic factors.  
+Technology: Jyupter Notebook  
 ## Data
 The data sets we will be using are:  
 EdGap_data.xlsx - https://www.edgap.org  
@@ -12,4 +12,7 @@ Since the ccd_sch dataset is too large to place into github, it can be accsess t
 We cleaned the data, taking all the data with proper values. After selecting the interesting columns we then joined them to create a single dataframe. We have also seperated the data into training and test sets. We then create the clean data file: clean_education_inequality.csv
 
 ## Data Analysis - Li_Education_Inequality_Analysis.ipynb
-We observed each variable and found the best subset by comparing different combinations of the variables. After selecting the best model based on adjusted r-squared, BIC and AIC values we tested its effectiveness.
+We observed each variable and found the best subset by comparing different combinations of the variables. After selecting the best model based on adjusted r-squared, BIC and AIC values we tested its effectiveness.  
+
+Author - Sean Li  
+Feel free to use my project!
